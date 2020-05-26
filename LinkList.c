@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define TURE 1
+#define FALSE 0
 
 typedef struct Node {
     int date;
